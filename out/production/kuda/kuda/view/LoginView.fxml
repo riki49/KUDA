@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="176.0" prefWidth="436.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="366.0" layoutY="114.0" mnemonicParsing="false" text="login" />
+      <Label layoutX="159.0" layoutY="44.0" text="user name" />
+      <Label layoutX="161.0" layoutY="83.0" text="password" />
+      <ImageView fitHeight="103.0" fitWidth="134.0" layoutX="14.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true" />
+      <TextField layoutX="260.0" layoutY="40.0" />
+      <PasswordField layoutX="260.0" layoutY="79.0" />
+   </children>
+</AnchorPane>
